@@ -1,0 +1,23 @@
+.zyw-footer .zyw-container .settle_box{
+    height: 60px;
+    background: #fff;
+}
+.zyw-footer .zyw-container .settle_box>dl{
+    width: 100px;
+    float: left;
+    background: #fff; 
+}
+.zyw-footer .zyw-container .settle_box>dl>dt>em{
+    font-size: 20px;
+}
+.zyw-footer .zyw-container .settle_box>a{
+    font-size: 16px;
+    text-align: center;
+    display: block;
+    line-height: 60px;
+    width: 80px;
+    height: 60px;
+    background: red;
+    color: #fff;
+    float: right;
+}

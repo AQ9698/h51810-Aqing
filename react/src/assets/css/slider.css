@@ -1,0 +1,13 @@
+.zyw-container{width: 100%; max-width: 640px; margin: 0 auto; position: relative; display: block;}
+.zyw-footer .zyw-container .weui-tabbar {
+    background-color: #fff;
+    top: 0;
+    height: 56px;
+}
+.zyw-container>img{
+    width: 100%;
+}
+.carousell{
+    height: 180px;
+    margin-top: 45px; 
+}

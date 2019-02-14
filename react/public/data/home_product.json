@@ -1,0 +1,38 @@
+[
+    {"Psrc":"https://m.360buyimg.com/n1/jfs/t15787/353/109633918/16701/5a8390ef/5a27ae6dNc530b5bb.jpg!q70.jpg",
+        "VIP":"VIP专享",
+        "Ptitle":"Apple 苹果 iPhoneX 全新发布",
+        "des":"全网通 64G 深空灰",
+        "prince":"6666.00",
+        "XQ":"Apple 苹果 iPhone X 手机 全面屏 银色 64GB",
+        "xl":1002,
+        "id":1
+       },
+       {"Psrc":"../img/h1.jpg",
+           "VIP":"VIP专享",
+           "Ptitle":"HW 华为 荣耀10 全新发布",
+           "des":"全网通 32G 深空灰",
+           "prince":"8888.00",
+           "XQ":"HW 华为 荣耀10 手机 全面屏 黑色 32GB",
+           "xl":888,
+           "id":2
+       },
+       {"Psrc":"../img/v1.jpg",
+           "VIP":"VIP专享",
+           "Ptitle":"CJY VW ViveZ1 全新首发",
+           "des":"全网通 108G 奶奶灰",
+           "XQ":"HW OPPO 荣耀8 手机 全面屏 奶奶色 108GB",
+           "prince":"9999.00",
+           "xl":5217,
+           "id":3
+       },
+       {"Psrc":"https://m.360buyimg.com/n1/jfs/t15787/353/109633918/16701/5a8390ef/5a27ae6dNc530b5bb.jpg!q70.jpg",
+           "VIP":"VIP专享",
+           "Ptitle":"ZDQ 苹果 iPhone10 宇宙第一",
+           "des":"全网通 64G 深空灰",
+           "XQ":"HW OPPO R11 手机 全面屏 奶奶色 108GB",
+           "prince":"5217.00",
+           "xl":1008,
+           "id":4
+       }
+]

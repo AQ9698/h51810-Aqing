@@ -1,0 +1,47 @@
+.zyw-header, .zyw-footer {
+    position: fixed;
+    width: 100%;
+    z-index: 5;
+    left: 0;
+}
+.zyw-header {
+    top: 0;
+    height: 45px;
+    line-height: 45px;
+    background: url("../img/head-bg.jpg") no-repeat;
+    background-size: 100%;
+}
+.zyw-footer {
+    bottom: 0;
+    height: 56px;
+}
+.zyw-footer~.zyw-container {
+    border-bottom: 56px solid transparent;
+}
+.zyw-header~.zyw-container {
+    border-top: 0px solid transparent;
+}
+.zyw-header .head-l{
+    position: absolute;
+    top: 0;
+    font-size: 1.5rem;
+    left: 10px;
+}
+.zyw-header .head-r{
+    position: absolute;
+    top: 0;
+    font-size: 1.5rem;
+    right: 10px;
+}
+.zyw-header .head-r a{
+    font-size: 1.2rem;
+}
+.zyw-header h1{
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 0;
+    line-height: 45px;
+}
+.zyw-footer p{
+    margin: 0;
+}

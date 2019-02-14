@@ -1,0 +1,18 @@
+.seckill-wares .swiper-wrapper .swiper-slide a{
+    width: 103px;
+    display: block;
+    float: left;
+    margin:0 8px;
+}
+.seckill-wares .swiper-wrapper .swiper-slide img{
+    width: 103px;
+    float: left;
+}   
+.seckill-wares .swiper-wrapper .swiper-slide p{
+    width: 103px;
+    
+}  
+.seckill-wares .swiper-wrapper .swiper-slide del{
+    width: 103px;
+    display: block;
+}  
